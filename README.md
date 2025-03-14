@@ -1,11 +1,11 @@
-# 汇总15个国内Chat GPT-4o模型中文镜像网站(25年3月12日最新更新）
+# 汇总15个国内Chat GPT-4o模型中文镜像网站(25年3月15日最新更新）
 
-> 最后更新时间：2025/03/12
+> 最后更新时间：2025/03/15
 
 
 ## GPT镜像网址
 
-[songshugpt.com](http://songshugpt.com)-国内直接使用，注册赠送积分稳定长久
+[songshugpt.com](http://songshugpt.com)-国内直接使用，注册赠送积分稳定长久，支持GPT-4、GPT-o1、GPT-o3、deepseek、grok3
 
 [gptdog](http://gptdog.online) - 国内直接使用，支持3.5/4.0
 
